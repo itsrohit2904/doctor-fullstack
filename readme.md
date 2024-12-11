@@ -80,39 +80,6 @@ CLOUDINARY_API_SECRET=<cloudinary-api-secret>
      npm start
      ```
 
-## Folder Structure
-
-```
-doctor-appointment-system/
-├── backend/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── cloudinary.js
-│   ├── connection.js
-│   ├── index.js
-│   └── .env
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   ├── index.jsx
-│   │   ├── index.css
-│   │   └── .env
-├── admin/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── context/
-│   │   ├── index.jsx
-│   │   ├── index.css
-│   │   └── .env
-└── README.md
-```
 
 ## Key Technologies
 
